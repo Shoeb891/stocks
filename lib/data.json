@@ -1,0 +1,48 @@
+[
+    {
+      "symbol": "AAPL",
+      "company_name": "Apple Inc.",
+      "price": 150.25
+    },
+    {
+      "symbol": "GOOGL",
+      "company_name": "Alphabet Inc.",
+      "price": 2800.75
+    },
+    {
+      "symbol": "MSFT",
+      "company_name": "Microsoft Corporation",
+      "price": 310.40
+    },
+    {
+      "symbol": "AMZN",
+      "company_name": "Amazon.com Inc.",
+      "price": 3500.60
+    },
+    {
+      "symbol": "TSLA",
+      "company_name": "Tesla, Inc.",
+      "price": 950.10
+    },
+    {
+      "symbol": "FB",
+      "company_name": "Meta Platforms Inc.",
+      "price": 320.90
+    },
+    {
+        "symbol": "NFLX",
+        "company_name": "Netflix Inc.",
+        "price": 600.75
+      },
+      {
+        "symbol": "NVDA",
+        "company_name": "NVIDIA Corporation",
+        "price": 750.25
+      },
+      {
+        "symbol": "DIS",
+        "company_name": "The Walt Disney Company",
+        "price": 150.0
+      }
+  ]
+  
